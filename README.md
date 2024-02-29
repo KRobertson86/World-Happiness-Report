@@ -14,8 +14,3 @@ The dataset comprises of information on the following parameters:
 - Generosity
   
 The full details of the data can be found [here](https://www.kaggle.com/datasets/unsdsn/world-happiness).
-## Tools
-For this project, the following Python libraries were used:
-- pandas- for data analysis
-- seaborn- for data visualization
-- matplotlib- for data visualization
